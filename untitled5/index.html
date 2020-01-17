@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bottle数据接口</title>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js">
+</script>
+    <script>
+        var now = new Date();
+        var year = now.getFullYear().toString(); //得到年份
+        var month = (now.getMonth()+1).toString();//得到月份
+        var date = now.getDate();//得到日期
+        var hour = now.getHours().toString();//得到小时
+        var minu = now.getMinutes().toString();//得到分钟
+        if(date<10){
+
+            date="0"+date.toString()
+        }else{
+            date=date.toString()
+
+        }
+        var timet=year+month+date+hour+minu
+        console.log(timet)
+          $.get("http://127.0.0.1:8080/get", {'code':1,'time':timet},function(result){
+              console.log(result)
+    $("#vals").html(result);
+  });
+        </script>
+    <style>
+#vals{
+    float: left;
+    margin-left:20%;
+    bottom:0px;
+    background-color:#0efefe;
+    width: 400px;
+    height: 200px;
+
+}
+</style>
+</head>
+<body>
+<div id="vals"></div>
+</body>
+</html>

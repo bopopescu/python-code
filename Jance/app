@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time    : 2019-11-14 14:52
+# @Author  : liujin
+# @Email   : 1045833538@QQ.com
+# @File    : app.py
+print('123456')
+
+
+

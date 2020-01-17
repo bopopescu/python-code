@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js">
+</script>
+<script>
+$(document).ready(function(){
+$("button").click(function(){
+
+    $.get('http://127.0.0.1:8888/api?pass='+$("#pass").val()+'&host='+$("#host").val()+'&user='+$("#user").val()+'&cmd='+$("#cmd").val(),function(data){
+       console.log(data)
+
+  $("#ps").html(data.data);
+
+ })
+
+
+  });
+$(document).keyup(function(){
+	if(event.keyCode==13){
+
+    $.get('http://127.0.0.1:8888/api?pass='+$("#pass").val()+'&host='+$("#host").val()+'&user='+$("#user").val()+'&cmd='+$("#cmd").val(),function(data){
+       console.log(data)
+
+  $("#ps").html(data.data);
+
+ })
+	}
+});
+
+});
+
+</script>
+</head>
+<body >
+<div  style="float: left;margin-left: 10%;margin-top:2%; ">
+     host:<input style=" Border:1px solid #000; width: 120px;height: 20px " type="text" id="host">
+    user:<input style=" Border:1px solid #000; width: 90px;height: 20px " type="text" id="user">
+    password:<input style=" Border:1px solid #000; width: 90px;height: 20px " type="text" id="pass"><hr>
+ <input style=" Border:1px solid #000; width: 600px;height: 30px " type="text" id="cmd">
+    <button style="width: 80px;height: 40px ">提 交</button>
+<p>执行结果：</p>
+ <div id="ps" style=" padding:50px;Border:1px solid #000; width: 600px;height: 100%;" ></div>
+</div>
+
+
+
+
+</body>
+</html>
+
+
+

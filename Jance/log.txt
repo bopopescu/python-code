@@ -1,0 +1,30 @@
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    tttttt\n', "NameError: name 'tttttt' is not defined\n"]=======2019.11.14 15.39.47
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    tttttt\n', "NameError: name 'tttttt' is not defined\n"]=======2019.11.14 15.40.30
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    tttttt\n', "NameError: name 'tttttt' is not defined\n"]=======2019.11.14 15.41.08
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.34.34
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.35.08
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.40.25
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.40.53
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.41.22
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.41.51
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.42.22
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.43.06
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.43.35
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.44.04
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.44.32
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.45.01
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.45.27
+['Traceback (most recent call last):\n', '  File "app.py", line 3, in <module>\n', '    mmmmmmmmm\n', "NameError: name 'mmmmmmmmm' is not defined\n"]=======2019.11.15 10.47.21
+1=======2019.11.15 11.29.34
+2=======2019.11.15 11.32.04
+需要重启，错误时间2019.11.15 12.13.57
+需要重启，错误时间2019.11.15 12.19.31
+需要重启，错误时间2019.11.15 12.26.42
+需要重启，错误时间2019.11.15 12.27.35
+需要重启，错误时间2019.11.15 12.28.20
+需要重启，错误时间2019.11.15 12.30.22
+需要重启，错误时间2019.11.15 12.32.12
+需要重启，错误时间2019.11.15 13.20.20
+需要重启，错误时间2019.11.15 13.21.05
+需要重启，错误时间2019.11.15 13.22.17
+需要重启，错误时间2019.11.15 13.22.52

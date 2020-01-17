@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<html>
+<head>
+  <meta charset="utf-8">
+<title>接口测试</title>
+   <style>
+  li{
+
+
+    width: 200px;
+    height: 30px;
+      padding: 10px;
+  vertical-align:middle;
+      margin: 0px;
+      border:1px solid #f0f0f0;
+
+}
+</style>
+
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js">
+</script>
+
+    <script type="text/jscript">
+  $.ajax({
+                   url: "http://127.0.0.1:8080/dir",
+
+                   type: "GET",
+                   dataType: "json",
+                   success: function (result) {
+                   console.log(result)
+                      data=eval('(' + result + ')')['data'];
+                      var dirs="<ul style='list-style-type:none' >";
+                      for(i in data){
+                      dirs+="<li><img src='./wen/wen.jpg' />"+data[i]+'<a href="./wen/'+data[i]+'">下载文件</a></li>';
+                          console.log(data[i])
+                      }
+                      dirs+="</ul>";
+                      $("#dir").append(dirs);
+                   console.log(data);
+
+                   }
+               })
+       $(function () {
+           $("#btn_uploadimg").click(function () {
+               var fileObj = document.getElementById("FileUpload").files[0]; // js 获取文件对象
+               if (typeof (fileObj) == "undefined" || fileObj.size <= 0) {
+                   alert("请选择图片");
+                   return;
+               }
+               var formFile = new FormData();
+               formFile.append("action", "UploadVMKImagePath");
+               formFile.append("file", fileObj); //加入文件对象
+
+
+               // ajax 提交
+
+               var data = formFile;
+               $.ajax({
+                   url: "http://127.0.0.1:8080/upload",
+                   data: data,
+                   type: "Post",
+                   dataType: "json",
+                   cache: false,//上传文件无需缓存
+                   processData: false,//用于对data参数进行序列化处理 这里必须false
+                   contentType: false, //必须
+                   success: function (result) {
+                   console.log(result)
+                      data=eval('(' + result + ')')['code'];
+                   console.log(data);
+				   if(data=='1'){
+                      alert("上传完成!");
+                      location.reload();
+                   }else{
+				   alert("上传失败!");
+				   }
+                   }
+               })
+
+           })
+       })
+
+   </script>
+</head>
+
+<div  >
+       <input type="file" name="FileUpload" id="FileUpload">
+       <button  class="layui-btn layui-btn-mini" id="btn_uploadimg">上传图片</button>
+</div>
+<h2>文件下载</h2>
+<span id="dir"></span>
+</html>
