@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4490fa3e-72cc-475a-8e0e-651c0ca7e2b6" name="Default Changelist" comment="" />
+    <list default="true" id="4490fa3e-72cc-475a-8e0e-651c0ca7e2b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../dianzi/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/电子看板.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaoqin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kaoqin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lookvlan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lookvlan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyjs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pyjs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/untitled9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/.idea/untitled9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtornado/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webtornado/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="141" column="8" lean-forward="true" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+            <state relative-caret-position="320">
+              <caret line="143" column="22" lean-forward="true" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
               <folding>
                 <element signature="e#159#180#0" expanded="true" />
               </folding>
@@ -31,6 +48,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -38,12 +58,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="2045" />
-    <option name="y" value="64" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="699" />
+    <option name="y" value="43" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -55,18 +76,22 @@
           <expand>
             <path>
               <item name="电子看板" type="b2602c69:ProjectViewProjectNode" />
+              <item name="电子看板" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="电子看板" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="电子看板" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.5 (venv) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="&lt; Python 2.7 (电子看板) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="电子看板" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.5 (venv) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="&lt; Python 2.7 (电子看板) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
             </path>
           </expand>
           <select />
@@ -75,6 +100,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -145,22 +171,33 @@
       <workItem from="1578287154251" duration="2183000" />
       <workItem from="1578360806466" duration="929000" />
       <workItem from="1579134971486" duration="1204000" />
+      <workItem from="1580793507711" duration="564000" />
+      <workItem from="1581319170101" duration="511000" />
+      <workItem from="1581486984953" duration="592000" />
+      <workItem from="1581571682360" duration="1593000" />
+      <workItem from="1581574016146" duration="64501000" />
+      <workItem from="1581640469375" duration="1672000" />
+      <workItem from="1581642321360" duration="1767000" />
+      <workItem from="1581644419641" duration="2308000" />
+      <workItem from="1581646962036" duration="1118000" />
+      <workItem from="1581648197106" duration="369000" />
+      <workItem from="1581744325807" duration="2946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28115000" />
+    <option name="totallyTimeSpent" value="106056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2045" y="64" width="1400" height="1000" extended-state="1" />
+    <frame x="699" y="43" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2716418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32014924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.328341" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32756633" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -169,7 +206,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32871974" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -182,14 +219,14 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$app.coverage" NAME="app Coverage Results" MODIFIED="1578360900849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$app.coverage" NAME="app Coverage Results" MODIFIED="1581648240389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled8$app.coverage" NAME="app Coverage Results" MODIFIED="1578113597999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="141" column="8" lean-forward="true" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+        <state relative-caret-position="320">
+          <caret line="143" column="22" lean-forward="true" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
           <folding>
             <element signature="e#159#180#0" expanded="true" />
           </folding>

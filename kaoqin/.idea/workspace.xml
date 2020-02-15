@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07307d1e-a5fe-44a6-a0e8-78a9ed5544a4" name="Default Changelist" comment="" />
+    <list default="true" id="07307d1e-a5fe-44a6-a0e8-78a9ed5544a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lookvlan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lookvlan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyjs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pyjs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtornado/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webtornado/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../电子看板/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../电子看板/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../电子看板/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../电子看板/app.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="355">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
               <folding>
                 <element signature="e#150#164#0" expanded="true" />
               </folding>
@@ -31,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -39,12 +49,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1" />
-    <option name="y" value="55" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2" />
     <option name="width" value="1918" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -65,8 +75,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../电子看板" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -144,22 +155,30 @@
       <workItem from="1578202800912" duration="2689000" />
       <workItem from="1578361281317" duration="4738000" />
       <workItem from="1578884364330" duration="11077000" />
+      <workItem from="1580793506070" duration="564000" />
+      <workItem from="1581319168205" duration="605000" />
+      <workItem from="1581486983815" duration="764000" />
+      <workItem from="1581571681302" duration="934000" />
+      <workItem from="1581574014924" duration="595000" />
+      <workItem from="1581640470916" duration="596000" />
+      <workItem from="1581642320857" duration="591000" />
+      <workItem from="1581644418463" duration="590000" />
+      <workItem from="1581646809687" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32129000" />
+    <option name="totallyTimeSpent" value="37507000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="55" width="1918" height="1038" extended-state="1" />
-    <editor active="true" />
+    <frame x="2" y="0" width="1918" height="1038" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26856837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29655543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4967707" visible="true" weight="0.33554083" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4962325" visible="true" weight="0.33480662" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -167,7 +186,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50322926" side_tool="true" visible="true" weight="0.33554083" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5037675" side_tool="true" visible="true" weight="0.33480662" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -182,7 +201,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/kaoqin$shu.coverage" NAME="shu Coverage Results" MODIFIED="1577493919822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kaoqin$app.coverage" NAME="app Coverage Results" MODIFIED="1579234315815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kaoqin$app.coverage" NAME="app Coverage Results" MODIFIED="1581487123427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymssql-2.1.4.dist-info/WHEEL">
@@ -191,8 +210,8 @@
     <entry file="file://$PROJECT_DIR$/shu.py" />
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="355">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
           <folding>
             <element signature="e#150#164#0" expanded="true" />
           </folding>

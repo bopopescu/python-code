@@ -14,18 +14,8 @@ from tqdm import tqdm
 # otherStyleTime = dateArray.strftime("%Y--%m--%d %H:%M:%S")
 # print(otherStyleTime)   # 2013--10--10 23:40:00
 # 任务配置
-# 用户
-arr=['010','011','012','013','014','015','052','070','10','1006','1006s','1006t','1007','1007b','101','102','102ledl','102ledt','102t','108611','120','121','122','123','124','125','126','127','128','129','501','502','503','504','ja01','pub-1','shitang']
-# 密码
-# arr=['501','502','503']
-pas="123456"
-# 标题
-title="二十四节气之小寒"
-# 标题顺序
-id=16
-# 标题id
-userTempId=[]
-s = go.session()
+
+
 def getcook(user,pas):
     millis = int(round(time.time() * 1000))
     # print(millis)
@@ -116,6 +106,9 @@ def addwoke():
         # print("获取imgid成功")
         for it in userTempId:
             setimg(i,pas,it,imgid)
+        shur = len(arr)-1
+        if shur<=0:
+            return 1
             # print("关联图片成功")
 def dells(user, pas,id):
     url = 'http://192.168.0.100:8088/dzkb0/home/deleteUserTemplet'
@@ -138,13 +131,38 @@ def dellist():
         for it in userTempId:
             dells(i, pas,it)
             # print("删除任务")
-
+        shur = len(arr) - 1
+        if shur <= 0:
+            return 1
     pass
 if __name__ =="__main__":
     # 建立任务
-    # print("开始任务:")
-    # addwoke()
-    # 删除任务
-    print("开始删除任务：")
-    dellist()
-    # print(imgid)
+    while 1:
+        # 用户
+        # arr=['010','011','012','013','014','015','052','070','10','1006','1006s','1006t','1007','1007b','101','102','102ledl','102ledt','102t','108611','120','121','122','123','124','125','126','127','128','129','501','502','503','504','ja01','pub-1','shitang']
+        # 密码
+        arr = ['9001']
+        pas = "123456"
+        # 标题
+        # title="人人为大家 大家为人人                   "
+        title = input("请输入标题：")
+        print("开始上传第" + str(len(title) - 10) + "张图片")
+        # 标题顺序
+        time.sleep(0)
+        # id=36
+        id = input("请输入ID：")
+        # 标题id
+        userTempId = []
+        s = go.session()
+        code=input("输入号码：")
+        if code=='1':
+            print("开始任务:")
+            print(addwoke())
+
+
+
+        # 删除任务
+        if code=='2':
+            print("开始删除任务：")
+            print(dellist())
+        # print(imgid)
