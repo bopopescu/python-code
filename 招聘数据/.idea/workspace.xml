@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bbfb6c6-ad9d-494d-97af-009061f59ddc" name="Default Changelist" comment="" />
+    <list default="true" id="0bbfb6c6-ad9d-494d-97af-009061f59ddc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../tcp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tcpssh/capp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled71/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dianzi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dianzi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaoqin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kaoqin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tcp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled71/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled71/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../电子看板/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../电子看板/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            <state relative-caret-position="-429">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
                 <element signature="e#147#166#0" expanded="true" />
               </folding>
@@ -52,6 +61,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -66,6 +78,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -86,8 +99,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kaoqin" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -182,16 +196,17 @@
       <workItem from="1577759370073" duration="1233000" />
       <workItem from="1577777345350" duration="260000" />
       <workItem from="1577941286346" duration="38000" />
+      <workItem from="1582252356259" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9106000" />
+    <option name="totallyTimeSpent" value="9128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="97" width="1936" height="1056" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -224,8 +239,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        <state relative-caret-position="-429">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <element signature="e#147#166#0" expanded="true" />
           </folding>

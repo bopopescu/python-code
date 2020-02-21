@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4490fa3e-72cc-475a-8e0e-651c0ca7e2b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../dianzi/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/电子看板.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kaoqin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kaoqin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lookvlan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lookvlan/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pyjs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pyjs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/untitled9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/.idea/untitled9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webtornado/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webtornado/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dianzi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dianzi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="143" column="22" lean-forward="true" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+              <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
               <folding>
                 <element signature="e#159#180#0" expanded="true" />
               </folding>
@@ -59,8 +45,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="699" />
-    <option name="y" value="43" />
+    <option name="x" value="520" />
+    <option name="y" value="40" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -102,7 +88,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kaoqin" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -182,17 +168,17 @@
       <workItem from="1581646962036" duration="1118000" />
       <workItem from="1581648197106" duration="369000" />
       <workItem from="1581744325807" duration="2946000" />
+      <workItem from="1582006870518" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106056000" />
+    <option name="totallyTimeSpent" value="106109000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="699" y="43" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="520" y="40" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32014924" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32537314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -206,7 +192,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32871974" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32871974" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -226,7 +212,7 @@
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="143" column="22" lean-forward="true" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
           <folding>
             <element signature="e#159#180#0" expanded="true" />
           </folding>
