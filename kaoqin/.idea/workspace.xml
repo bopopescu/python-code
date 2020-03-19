@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07307d1e-a5fe-44a6-a0e8-78a9ed5544a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../tcp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tcpssh/capp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled71/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dianzi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dianzi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shu.py" beforeDir="false" afterPath="$PROJECT_DIR$/shu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tcp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled71/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled71/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../招聘数据/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../招聘数据/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../电子看板/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../电子看板/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="23" selection-start-line="23" selection-end-line="26" selection-end-column="24" />
+            <state relative-caret-position="307">
+              <caret line="84" column="19" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
               <folding>
                 <element signature="e#150#164#0" expanded="true" />
               </folding>
@@ -48,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state relative-caret-position="408">
+              <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding>
                 <element signature="e#147#161#0" expanded="true" />
               </folding>
@@ -77,10 +68,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-681" />
-    <option name="y" value="31" />
-    <option name="width" value="1918" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="2" />
+    <option name="width" value="1851" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -194,23 +184,24 @@
       <workItem from="1581644418463" duration="590000" />
       <workItem from="1581646809687" duration="139000" />
       <workItem from="1582006931660" duration="4495000" />
-      <workItem from="1582252380009" duration="1305000" />
+      <workItem from="1582252380009" duration="1920000" />
+      <workItem from="1583147085573" duration="865000" />
+      <workItem from="1583546933163" duration="4511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43307000" />
+    <option name="totallyTimeSpent" value="49298000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-681" y="31" width="1918" height="1038" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="2" width="1851" height="1038" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30301398" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3210497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49515608" visible="true" weight="0.33480662" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8358459" visible="true" weight="0.33480662" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -218,7 +209,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5048439" side_tool="true" visible="true" weight="0.33480662" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.1641541" side_tool="true" weight="0.33480662" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -232,8 +223,8 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kaoqin$shu.coverage" NAME="shu Coverage Results" MODIFIED="1582253062790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kaoqin$app.coverage" NAME="app Coverage Results" MODIFIED="1582011027626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kaoqin$shu.coverage" NAME="shu Coverage Results" MODIFIED="1583831805087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kaoqin$app.coverage" NAME="app Coverage Results" MODIFIED="1583549047794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymssql-2.1.4.dist-info/WHEEL">
@@ -251,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="23" selection-start-line="23" selection-end-line="26" selection-end-column="24" />
+        <state relative-caret-position="307">
+          <caret line="84" column="19" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
           <folding>
             <element signature="e#150#164#0" expanded="true" />
           </folding>
@@ -261,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state relative-caret-position="408">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding>
             <element signature="e#147#161#0" expanded="true" />
           </folding>

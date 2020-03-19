@@ -2,30 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4490fa3e-72cc-475a-8e0e-651c0ca7e2b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../dianzi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dianzi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jiekou/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jiekou/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaoqin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kaoqin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reqapi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reqapi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reqhtml/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reqhtml/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tcp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tcpssh/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpssh/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tcpssh/.idea/tcpssh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpssh/.idea/tcpssh.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tcpssh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpssh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled5/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtornado/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webtornado/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yinwen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yinwen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../招聘数据/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../招聘数据/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../招聘数据/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../招聘数据/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../招聘数据/.idea/招聘数据.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../招聘数据/.idea/招聘数据.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/电子看板.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/电子看板.iml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
-              <folding>
-                <element signature="e#159#180#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,58 +37,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/app.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="520" />
-    <option name="y" value="40" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
+  <component name="ProjectId" id="1ZFfc3ddUZsjFHU8s8fTKwVtKTN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="电子看板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="电子看板" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="电子看板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="电子看板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 2.7 (电子看板) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="电子看板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 2.7 (电子看板) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kaoqin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../招聘数据" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -98,18 +57,6 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -169,55 +116,25 @@
       <workItem from="1581648197106" duration="369000" />
       <workItem from="1581744325807" duration="2946000" />
       <workItem from="1582006870518" duration="53000" />
+      <workItem from="1584439849751" duration="4698000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106109000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="520" y="40" width="1400" height="1000" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32537314" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32756633" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32871974" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$app.coverage" NAME="app Coverage Results" MODIFIED="1581648240389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled8$app.coverage" NAME="app Coverage Results" MODIFIED="1578113597999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1584441052503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584441052503" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1584442939574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584442939574" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
-          <folding>
-            <element signature="e#159#180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$app.coverage" NAME="app Coverage Results" MODIFIED="1584439894239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$app.coverage" NAME="app Coverage Results" MODIFIED="1578113597999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,0 +1,60 @@
+<html>
+<header>
+<meta charset="utf-8">
+    <title>Tornado WebSocket</title>
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js">
+</script>
+</header>
+<body>
+<div style="position: fixed; right:10%">
+<p>
+<h1>在线聊天室</h1>
+</p>
+<p>
+<textarea  id="txt" rows="10" cols="60">
+</textarea>
+<p>
+ <button>提 交</button>
+ </div>
+ <br> <br> <br> <br> 
+ <textarea id="ly"  rows="30" cols="60">
+ 
+</textarea>
+
+
+ <script type="text/javascript">
+
+
+
+      if ("WebSocket" in window) {
+          var ws = new WebSocket("ws://192.168.124.2:8000/ws");
+            ws.onopen = function() {
+			$(document).ready(function(){
+				 $("button").click(function(){
+					ws.send(":\n"+$("#txt").val());
+					$("#txt").val("")
+				});
+							
+ 
+			});
+			
+			$(document).keyup(function(event){
+		if(event.keyCode ==13){
+    ws.send(":\n"+$("#txt").val());
+	$("#txt").val("")
+  }
+});
+            
+            };
+            ws.onmessage = function (evt) {
+               $("#ly").append("\n"+evt.data);
+            };
+			ws.onclose=function(e){
+  console.log(e);
+  ws.close(); //关闭TCP连接
+};
+      }
+ 
+</script>
+</body>
+</html>
