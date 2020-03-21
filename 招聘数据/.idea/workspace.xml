@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bbfb6c6-ad9d-494d-97af-009061f59ddc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jiekou/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jiekou/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kaoqin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kaoqin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reqapi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reqapi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reqhtml/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reqhtml/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tcp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tcpssh/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpssh/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tcpssh/.idea/tcpssh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpssh/.idea/tcpssh.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tcpssh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpssh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled5/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webtornado/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webtornado/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yinwen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yinwen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/招聘数据.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/招聘数据.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../电子看板/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../电子看板/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../电子看板/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../电子看板/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../电子看板/.idea/电子看板.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../电子看板/.idea/电子看板.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tcp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kaoqin" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -132,7 +116,7 @@
       <workItem from="1577941286346" duration="38000" />
       <workItem from="1582252356259" duration="22000" />
       <workItem from="1584441057227" duration="129000" />
-      <workItem from="1584442634482" duration="1389000" />
+      <workItem from="1584442634482" duration="1441000" />
     </task>
     <servers />
   </component>
@@ -140,10 +124,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1584502069442">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1584703108992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584502069442" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584703108992" />
     <state x="461" y="151" key="SettingsEditor" timestamp="1584442720282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
